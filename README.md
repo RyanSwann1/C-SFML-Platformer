@@ -1,1 +1,1 @@
-# C-SFML-Platformer WORK IN PROGRESS
+# CPP-SFML-Platformer WORK IN PROGRESS
